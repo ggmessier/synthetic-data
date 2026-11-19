@@ -1,0 +1,21 @@
+ProviderId,ProviderType,AvgLoad,ProviderName
+1,Shelter,450,Keystone Emergency Centre
+2,Shelter,250,Common Roof Emergency Shelter
+3,Shelter,150,Harbor Centre
+4,Shelter,100,City Support Centre
+1,Housing,70,Anchor Point Housing Initiative
+2,Housing,70,Bridgewater Supportive Living Program
+3,Housing,70,New Horizons Transitional Housing
+4,Housing,70,Harbor Residence Program
+5,Housing,70,Cornerstone Community Housing
+6,Housing,70,Pathways Home Project
+7,Housing,70,Sunrise Supportive Living
+8,Housing,70,Haven Heights Housing Program
+9,Housing,70,Stepping Stones Residence Initiative
+10,Housing,70,Rooted Community Housing
+1,Intake,0,Community Shelter Alliance
+2,Intake,0,SafeHaven Referral Services
+3,Intake,0,HomeLink Assistance Program
+4,Intake,0,Cornerstone Housing Connect
+5,Intake,0,New Horizons Rehousing Initiative
+6,Intake,0,Pathways to Home Coalition
